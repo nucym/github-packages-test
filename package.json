@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nucym/github-packages-test/issues"
   },
-  "homepage": "https://github.com/nucym/github-packages-test#readme"
+  "homepage": "https://github.com/nucym/github-packages-test#readme",
+  "publishConfig": {
+    "@nucym:registry": "https://npm.pkg.github.com"
+  }
 }
